@@ -6,7 +6,7 @@
 
 ### Favorite
 
-  Like go, nodejs, php, docker, k8s, istio, microservice architecture design
+  Like go,rust,nodejs,php,docker,k8s,istio,microservice architecture design
 ### Email
   
   zhuwei313@hotmail.com
