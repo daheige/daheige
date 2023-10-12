@@ -12,8 +12,8 @@
 
 ### Favorite
 
-  Like go,rust,nodejs,php,docker,k8s,istio,microservice architecture design
-### My Email
+  Like listening to music, reading, backgammon, Chinese chess.
+### Contact me
   
   zhuwei313@hotmail.com
 
