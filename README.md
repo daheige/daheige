@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![daheige's github stats](https://github-readme-stats.vercel.app/api?username=daheige&count_private=true&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daheige&theme=vue)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxiaozhuox&theme=react&hide=html,css,dockerfile,shell,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrxiaozhuox&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide_border=true"/>
+</p>
 
 ### Favorite
 
