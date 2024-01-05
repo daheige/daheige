@@ -1,6 +1,6 @@
 ### About me
 - Go/Rust/Nodejs/PHP/C enthusiasts
-- More than 9 years of background development experience, with rich practical experience in large-scale projects worth tens of millions of dollars
+- Ten years of background development experience, with rich practical experience in large-scale projects worth tens of millions of dollars
 - Currently engaged in Go/Rust system programming, architecture design, microservices, ddd, etc.
 
 ### Hi there 👋
