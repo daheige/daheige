@@ -7,7 +7,7 @@
 
 ![daheige's github stats](https://github-readme-stats.vercel.app/api?username=daheige&count_private=false&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daheige&layout=compact)](https://github.com/daheige/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daheige&layout=compact)](https://github.com/daheige)
 
 
 ### Favorite
