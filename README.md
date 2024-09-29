@@ -12,7 +12,7 @@
 
 ### Favorite
 
-  Like listening to music, reading, backgammon, Chinese chess.
+  Like listening to music, reading, Chinese chess.
 ### Contact me
   
   zhuwei313@hotmail.com Welcome all friends to learn and communicate with me.
