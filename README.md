@@ -15,7 +15,7 @@
   Like listening to music, reading, backgammon, Chinese chess.
 ### Contact me
   
-  zhuwei313@hotmail.com
+  zhuwei313@hotmail.com Welcome all friends to learn and communicate with me.
 
 ### Open source organizations
 - https://github.com/polarismesh
@@ -43,5 +43,3 @@
 - https://github.com/daheige/pyo3-in-action
 - https://github.com/daheige/native_counter
 
-### Follow-up plan
-In the future, I will go all out in the fields of rust programming, computer operating systems, distributed system design, architecture design, etc., as well as participate in rust language evangelism and knowledge sharing. Friends are welcome to communicate and learn with me, and encourage each other!
