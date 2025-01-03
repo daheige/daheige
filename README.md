@@ -30,7 +30,7 @@
 ### Rust books
 - https://github.com/daheige/rust-in-action
 
-### Rust practical project
+### Rust practical projects
 - https://github.com/daheige/rust-bible
 - https://github.com/daheige/rs-cookbook
 - https://github.com/daheige/rs-api
@@ -42,3 +42,7 @@
 - https://github.com/daheige/pyo3-in-action
 - https://github.com/daheige/native_counter
 
+# grpc projects
+- https://github.com/daheige/athena go web/job/grpc定制化框架
+- https://github.com/daheige/gmicro go grpc微服务脚手架
+- https://github.com/daheige/rs-rpc rust grpc微服务脚手架
