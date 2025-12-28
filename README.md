@@ -2,6 +2,7 @@
 - Go/Rust/Nodejs/PHP/C enthusiasts.
 - More than ten years of background development experience, with rich practical experience in thousands of large-scale projects and high-concurrency projects.
 - Currently engaged in Go/Rust system programming, architecture design, microservices, ddd, etc.
+- The author of the book "Rust Practical Project Development"
 
 ### Hi there 👋
 
