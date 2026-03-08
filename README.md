@@ -27,6 +27,7 @@
 - https://crates.io/crates/rs_infras
 - https://crates.io/crates/gen-table
 - https://crates.io/crates/rcron
+- https://crates.io/crates/rs-broker
 
 ### Rust books
 - https://github.com/daheige/rust-in-action
@@ -35,15 +36,18 @@
 - https://github.com/daheige/rust-bible
 - https://github.com/daheige/rs-cookbook
 - https://github.com/daheige/rs-api
-- https://github.com/daheige/rs-rpc
+- https://github.com/daheige/rs-grpc
 - https://github.com/daheige/dioxus-in-action
 - https://github.com/daheige/qt-in-action
 - https://github.com/daheige/gtk-rs-in-action
 - https://github.com/daheige/napi-in-action
 - https://github.com/daheige/pyo3-in-action
 - https://github.com/daheige/native_counter
+- https://github.com/daheige/rs-broker-demo 基于 https://crates.io/crates/rs-broker kafka broker(pub/sub)组件实战
+- https://github.com/daheige/rust-advanced-programming rust高级进阶
 
 # grpc projects
+- https://github.com/daheige/hephfx go grpc微服务脚手架
+- https://github.com/daheige/rs-grpc rust grpc微服务脚手架
+- https://github.com/daheige/hephfx-micro-svc go and rust grpc微服务实战（基于hephfx框架）
 - https://github.com/daheige/athena go web/job/grpc定制化框架
-- https://github.com/daheige/gmicro go grpc微服务脚手架
-- https://github.com/daheige/rs-rpc rust grpc微服务脚手架
