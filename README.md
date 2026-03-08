@@ -49,5 +49,5 @@
 # grpc projects
 - https://github.com/daheige/hephfx go grpc微服务脚手架
 - https://github.com/daheige/rs-grpc rust grpc微服务脚手架
-- https://github.com/daheige/hephfx-micro-svc go and rust grpc微服务实战（基于hephfx框架）
+- https://github.com/daheige/hephfx-micro-svc go and rust grpc微服务实战（go基于hephfx框架，rust基于tonic grpc框架实现，包含pb代码自动生成）
 - https://github.com/daheige/athena go web/job/grpc定制化框架
