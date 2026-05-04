@@ -45,6 +45,7 @@
 - https://github.com/daheige/native_counter
 - https://github.com/daheige/rs-broker-demo 基于 https://crates.io/crates/rs-broker kafka broker(pub/sub)组件实战
 - https://github.com/daheige/rust-advanced-programming rust高级进阶
+- https://github.com/rs-god/hera rust基础设施组件库
 
 # grpc projects
 - https://github.com/daheige/hephfx go grpc微服务脚手架
