@@ -47,3 +47,11 @@
 - https://github.com/daheige/hephfx-micro-svc go and rust grpc微服务实战（go基于hephfx框架，rust基于tonic grpc框架实现，包含pb代码自动生成）
 - https://github.com/daheige/hello-pb hephfx微服务实战protobuf协议一键生成pb代码（包含go/rust/nodejs代码）
 - https://github.com/daheige/athena go web/job/grpc定制化框架
+
+# ai projects
+- https://github.com/daheige/hermes-ai ai llm gateway网关
+- https://github.com/daheige/rsmgo ai 智能体大模型项目（支持Claude, GPT, DeepSeek, Qwen, Kimi等大模型接入）
+- https://github.com/daheige/ai-in-action/tree/main/harness ai harness工程
+
+# WeChat Channels
+- 大黑哥
